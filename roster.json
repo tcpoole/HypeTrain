@@ -1,0 +1,351 @@
+{
+  "version": 1,
+  "site": {
+    "credit": "Characters by TC Poole",
+    "links": [
+      {
+        "label": "Twitch",
+        "url": "https://twitch.tv/tc_poole"
+      },
+      {
+        "label": "Patreon",
+        "url": "https://patreon.com/c/tcpoole"
+      }
+    ]
+  },
+  "host": {
+    "name": "Funkbot host",
+    "head": "https://pub-1b5d816edffe472e834aa3fd0b807ad6.r2.dev/funkbot2-head.glb",
+    "body": "https://pub-1b5d816edffe472e834aa3fd0b807ad6.r2.dev/tccharacter/riggedtcblackundersuit.glb",
+    "anims": "https://pub-1b5d816edffe472e834aa3fd0b807ad6.r2.dev/tccharacter/tc-host-anims.glb",
+    "library": "https://pub-1b5d816edffe472e834aa3fd0b807ad6.r2.dev/chatcrowd-anim-library.glb"
+  },
+  "assetBase": "https://pub-1b5d816edffe472e834aa3fd0b807ad6.r2.dev/",
+  "families": {
+    "knight": {
+      "label": "Knights of the Tronixia Archive",
+      "aliases": [
+        "knight",
+        "knights",
+        "archive"
+      ]
+    },
+    "robot": {
+      "label": "Robots of the Bureau",
+      "aliases": [
+        "robot",
+        "robots",
+        "bot",
+        "bots",
+        "droid"
+      ]
+    },
+    "frog": {
+      "label": "Lily Paladins of Lu La Lain",
+      "aliases": [
+        "frog",
+        "frogs",
+        "toad",
+        "toads",
+        "lily",
+        "paladin",
+        "paladins"
+      ]
+    },
+    "undead": {
+      "label": "The Dead of Brangus & Grimhollow",
+      "aliases": [
+        "undead",
+        "dead",
+        "skeleton",
+        "skeletons",
+        "spooky",
+        "spook",
+        "spooks",
+        "brangus",
+        "grimhollow"
+      ]
+    }
+  },
+  "characters": [
+    {
+      "n": 1,
+      "code": "vexillion",
+      "name": "Ser Vexillion of the Ashen Gate",
+      "epithet": "the Oathless",
+      "family": "knight",
+      "scale": 1.0,
+      "url": "https://pub-1b5d816edffe472e834aa3fd0b807ad6.r2.dev/archive_vexillion.glb"
+    },
+    {
+      "n": 2,
+      "code": "hrodna",
+      "name": "Jarl Hrodna Frostmantle",
+      "epithet": "the Wolf of Meve Pass",
+      "family": "knight",
+      "scale": 1.0,
+      "url": "https://pub-1b5d816edffe472e834aa3fd0b807ad6.r2.dev/archive_hrodna.glb"
+    },
+    {
+      "n": 3,
+      "code": "ashar",
+      "name": "Sir Ashar Sunhelm",
+      "epithet": "Lance of the Eternal Sands",
+      "family": "knight",
+      "scale": 1.0,
+      "url": "https://pub-1b5d816edffe472e834aa3fd0b807ad6.r2.dev/archive_ashar.glb"
+    },
+    {
+      "n": 4,
+      "code": "brightbean",
+      "name": "Brother-Commander Aldous Brightbean",
+      "epithet": "Shield of the White City",
+      "family": "knight",
+      "scale": 1.0,
+      "url": "https://pub-1b5d816edffe472e834aa3fd0b807ad6.r2.dev/archive_brightbean.glb"
+    },
+    {
+      "n": 5,
+      "code": "reginald",
+      "name": "Sir Reginald Fleur-de-Crumb",
+      "epithet": "the Challenger of Castle Dragonguard",
+      "family": "knight",
+      "scale": 1.0,
+      "url": "https://pub-1b5d816edffe472e834aa3fd0b807ad6.r2.dev/archive_reginald.glb"
+    },
+    {
+      "n": 6,
+      "code": "grolthak",
+      "name": "Grol’thak the Black Anvil",
+      "epithet": "Champion of the Forge-Lord",
+      "family": "knight",
+      "scale": 1.0,
+      "url": "https://pub-1b5d816edffe472e834aa3fd0b807ad6.r2.dev/archive_grolthak.glb"
+    },
+    {
+      "n": 7,
+      "code": "thandril",
+      "name": "Thandril Hartsong",
+      "epithet": "Stag-Warden of Virdoriath",
+      "family": "knight",
+      "scale": 1.0,
+      "url": "https://pub-1b5d816edffe472e834aa3fd0b807ad6.r2.dev/archive_thandril.glb"
+    },
+    {
+      "n": 8,
+      "code": "morrow",
+      "name": "Sir Morrow Blackfen",
+      "epithet": "the Toad-Sworn",
+      "family": "knight",
+      "scale": 1.0,
+      "url": "https://pub-1b5d816edffe472e834aa3fd0b807ad6.r2.dev/archive_morrow.glb"
+    },
+    {
+      "n": 9,
+      "code": "crimsonet",
+      "name": "Dame Crimsonet Oathwood",
+      "epithet": "the Unbreakable Contract",
+      "family": "knight",
+      "scale": 1.0,
+      "url": "https://pub-1b5d816edffe472e834aa3fd0b807ad6.r2.dev/archive_crimsonet.glb"
+    },
+    {
+      "n": 10,
+      "code": "velvetine",
+      "name": "Maestro Duke Velvetine",
+      "epithet": "the Crooner of Quant",
+      "family": "knight",
+      "scale": 1.0,
+      "url": "https://pub-1b5d816edffe472e834aa3fd0b807ad6.r2.dev/archive_velvetine.glb"
+    },
+    {
+      "n": 11,
+      "code": "crampon",
+      "name": "Unit 03 “Crampon” Kovalski",
+      "epithet": "Sole Survivor of Survey Team Six",
+      "family": "knight",
+      "scale": 1.0,
+      "url": "https://pub-1b5d816edffe472e834aa3fd0b807ad6.r2.dev/archive_crampon.glb"
+    },
+    {
+      "n": 12,
+      "code": "mortimer",
+      "name": "Mortimer Graves",
+      "epithet": "Undertaker-Unit Seven",
+      "family": "knight",
+      "scale": 1.0,
+      "url": "https://pub-1b5d816edffe472e834aa3fd0b807ad6.r2.dev/archive_mortimer.glb"
+    },
+    {
+      "n": 13,
+      "code": "pips",
+      "name": "Pips Tallowgear",
+      "epithet": "Model F-7, Ice-Road Hauler",
+      "family": "robot",
+      "scale": 1.0,
+      "url": "https://pub-1b5d816edffe472e834aa3fd0b807ad6.r2.dev/Meshy_AI_Futuristic_Robot_All_Animations.glb"
+    },
+    {
+      "n": 14,
+      "code": "rosalind",
+      "name": "Envoy Rosalind Q",
+      "epithet": "the Pink Protocol",
+      "family": "robot",
+      "scale": 1.0,
+      "url": "https://pub-1b5d816edffe472e834aa3fd0b807ad6.r2.dev/Meshy_AI_Pink_Sentinel_All_Animations.glb"
+    },
+    {
+      "n": 15,
+      "code": "bob",
+      "name": "B0-B",
+      "epithet": "Clerk of the Bureau of Forms",
+      "family": "robot",
+      "scale": 1.0,
+      "url": "https://pub-1b5d816edffe472e834aa3fd0b807ad6.r2.dev/Meshy_AI_Sentinel_Bot_All_Animations.glb"
+    },
+    {
+      "n": 16,
+      "code": "mossplate",
+      "name": "Sergeant Mossplate",
+      "epithet": "Toll-Payer of Poolietta",
+      "family": "robot",
+      "scale": 1.0,
+      "url": "https://pub-1b5d816edffe472e834aa3fd0b807ad6.r2.dev/Meshy_AI_Sentinel_Mech_All_Animations.glb"
+    },
+    {
+      "n": 17,
+      "code": "suture",
+      "name": "Doctor Suture-9",
+      "epithet": "Chief of Synthetic Medicine",
+      "family": "robot",
+      "scale": 1.0,
+      "url": "https://pub-1b5d816edffe472e834aa3fd0b807ad6.r2.dev/medicrobot.glb"
+    },
+    {
+      "n": 18,
+      "code": "whisk",
+      "name": "Scout Whisk",
+      "epithet": "Cartographer of Everything",
+      "family": "robot",
+      "scale": 1.0,
+      "url": "https://pub-1b5d816edffe472e834aa3fd0b807ad6.r2.dev/scoutrobot.glb"
+    },
+    {
+      "n": 19,
+      "code": "sentinal",
+      "name": "Sentinal",
+      "epithet": "the Misspelled",
+      "family": "robot",
+      "scale": 1.0,
+      "url": "https://pub-1b5d816edffe472e834aa3fd0b807ad6.r2.dev/sentinalrobot.glb"
+    },
+    {
+      "n": 20,
+      "code": "lillibert",
+      "name": "Grand Paladin Lillibert Croakwell",
+      "epithet": "the Lotus Unfolding",
+      "family": "frog",
+      "scale": 0.5,
+      "url": "https://pub-1b5d816edffe472e834aa3fd0b807ad6.r2.dev/Meshy_AI_Meshy_Merged_Animations%20(3).glb"
+    },
+    {
+      "n": 21,
+      "code": "nocturna",
+      "name": "Sister Nocturna Ribbitage",
+      "epithet": "Keeper of the Night Chorus",
+      "family": "frog",
+      "scale": 0.5,
+      "url": "https://pub-1b5d816edffe472e834aa3fd0b807ad6.r2.dev/Meshy_AI_Meshy_Merged_Animations%20(4).glb"
+    },
+    {
+      "n": 22,
+      "code": "gloomsby",
+      "name": "Ser Gloomsby Bogwater",
+      "epithet": "the Weeping Paladin",
+      "family": "frog",
+      "scale": 0.5,
+      "url": "https://pub-1b5d816edffe472e834aa3fd0b807ad6.r2.dev/Meshy_AI_Meshy_Merged_Animations%20(5).glb"
+    },
+    {
+      "n": 23,
+      "code": "emberthroat",
+      "name": "Inquisitor Pyrrhus Emberthroat",
+      "epithet": "the Eye That Does Not Blink",
+      "family": "frog",
+      "scale": 0.5,
+      "url": "https://pub-1b5d816edffe472e834aa3fd0b807ad6.r2.dev/Meshy_AI_Meshy_Merged_Animations%20(9).glb"
+    },
+    {
+      "n": 24,
+      "code": "verdalie",
+      "name": "Dame Verdalie Padsworth",
+      "epithet": "the Leaping Lance",
+      "family": "frog",
+      "scale": 0.5,
+      "url": "https://pub-1b5d816edffe472e834aa3fd0b807ad6.r2.dev/Meshy_AI_Meshy_Merged_Animations%20(11).glb"
+    },
+    {
+      "n": 25,
+      "code": "sparkwort",
+      "name": "Brother Sparkwort Hopsworth",
+      "epithet": "the Storm-Croaker",
+      "family": "frog",
+      "scale": 0.5,
+      "url": "https://pub-1b5d816edffe472e834aa3fd0b807ad6.r2.dev/Meshy_AI_Meshy_Merged_Animations%20(12).glb"
+    },
+    {
+      "n": 26,
+      "code": "skarrow",
+      "name": "Lord-Marshal Skarrow Vane",
+      "epithet": "the Ninth Rider",
+      "family": "undead",
+      "scale": 1.0,
+      "url": "https://pub-1b5d816edffe472e834aa3fd0b807ad6.r2.dev/Meshy_AI_Meshy_Merged_Animations%20(7).glb"
+    },
+    {
+      "n": 27,
+      "code": "bonesworth",
+      "name": "Bonesworth the Low Note",
+      "epithet": "Bass of the Iron Choir",
+      "family": "undead",
+      "scale": 1.0,
+      "url": "https://pub-1b5d816edffe472e834aa3fd0b807ad6.r2.dev/Meshy_AI_Meshy_Merged_Animations%20(8).glb"
+    },
+    {
+      "n": 28,
+      "code": "gorrin",
+      "name": "Abbot Gorrin Flay",
+      "epithet": "the Butcher of Grimhollow",
+      "family": "undead",
+      "scale": 1.0,
+      "url": "https://pub-1b5d816edffe472e834aa3fd0b807ad6.r2.dev/Meshy_AI_Meshy_Merged_Animations.glb"
+    },
+    {
+      "n": 29,
+      "code": "miasmus",
+      "name": "Doctor Corvin Miasmus",
+      "epithet": "the Beaked Physician",
+      "family": "undead",
+      "scale": 1.0,
+      "url": "https://pub-1b5d816edffe472e834aa3fd0b807ad6.r2.dev/Meshy_AI_Meshy_Merged_Animations%20(6).glb"
+    },
+    {
+      "n": 30,
+      "code": "thresh",
+      "name": "Deacon Thresh",
+      "epithet": "the Scarecrow Sermon",
+      "family": "undead",
+      "scale": 1.0,
+      "url": "https://pub-1b5d816edffe472e834aa3fd0b807ad6.r2.dev/Meshy_AI_Meshy_Merged_Animations%20(2).glb"
+    },
+    {
+      "n": 31,
+      "code": "bartleby",
+      "name": "Bartleby Marrowshot",
+      "epithet": "the Blind Bow of Grimhollow",
+      "family": "undead",
+      "scale": 1.0,
+      "url": "https://pub-1b5d816edffe472e834aa3fd0b807ad6.r2.dev/Meshy_AI_Meshy_Merged_Animations%20(10).glb"
+    }
+  ]
+}
